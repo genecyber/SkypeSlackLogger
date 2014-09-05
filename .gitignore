@@ -1,0 +1,13 @@
+packages/
+bin/
+obj/
+TempPE/
+*.user
+*.suo
+*.dll
+*.exe
+*.cache
+*.Cache
+*.pdb
+*.bat
+*.vshost.exe
